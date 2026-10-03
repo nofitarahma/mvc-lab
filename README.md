@@ -5,6 +5,9 @@ MODUL PAWL04 - CRUD dan Validasi Data pada Laravel
  - **Mata Kuliah** : PENGEMBANGAN APLIKASI WEB LANJUT
  - **Kelas** : TEKNOLOGI INFORMASI - A
 
+## Deskripsi Singkat
+Saya menggunakan project yang telah digunakan sebelumnya saat sesi praktik di kelas, oleh karena itu BookController yang sesuai dengan perintah modul adalah BookController2.php
+
 ## Checklist Pengujian CRUD
 
 - [v] GET /books menampilkan semua buku.
